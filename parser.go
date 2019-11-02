@@ -9,4 +9,7 @@ func main() {
 	fmt.Println("new line changed")
 
 	fmt.Println("new line added 2")
+
+	fmt.Println("new line added 4")
+
 }
