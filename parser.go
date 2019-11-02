@@ -10,6 +10,6 @@ func main() {
 
 	fmt.Println("new line added 2")
 
-	fmt.Println("new line added 5")
+	fmt.Println("new line added 6")
 
 }
